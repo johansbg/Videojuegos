@@ -1,0 +1,4 @@
+npm install express
+npm install socket.io --save
+npm install uuid
+npm instalar serve-favicon
