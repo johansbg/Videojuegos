@@ -1,8 +1,4 @@
-"# Arbol-Genealogico" 
-"# Arbol-Genealogico" 
-"# Arbol-Genealogico" 
-"# Videojuegos" 
-"# Videojuegos" 
+
 "# Videojuegos" 
 "# Videojuegos" 
 "# Videojuegos"  
