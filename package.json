@@ -4,6 +4,7 @@
   "description": "Juego",
   "main": "app.js",
   "scripts": {
+    "start": "node ./server/app.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Johan_Burgos",
